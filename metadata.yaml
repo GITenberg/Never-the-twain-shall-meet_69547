@@ -1,5 +1,8 @@
 _repo: Never-the-twain-shall-meet_69547
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69547-h/images/cover.jpg
 creator:
   author:
     agent_name: Kyne, Peter B. (Peter Bernard)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1858
     wikipedia: https://en.wikipedia.org/wiki/Peter_B._Kyne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69547#Never-the-twain-shall-meet
 gutenberg_issued: '2022-12-14'
 identifiers:
   gutenberg: '69547'
